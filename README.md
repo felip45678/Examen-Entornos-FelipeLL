@@ -1,0 +1,1 @@
+el archivo gitignore nos servira para que los archivos que hemos puesto en el documento nombre.txt el git los ignore y no lo mezcle con los otros archivos
